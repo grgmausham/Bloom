@@ -130,7 +130,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #6bf0ff;
+  background-color: #bd2222;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -140,7 +140,7 @@ body {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #65e6cc;
+  background-color: #c33535;
   background-image: linear-gradient(to top, #40bbab, #a7ffee);
   transform-origin: bottom center;
   opacity: 0.9;
